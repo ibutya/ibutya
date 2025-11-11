@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**ibutya/ibutya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌈 About Me
+Hi! I'm いぶちゃ 🎵  
+- 💻 Node.js Dev  
+- 🤖 Discord.js Dev
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD966?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-ADEBAD?logo=node.js&logoColor=black)
+![React](https://img.shields.io/badge/-React-A4DDED?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-FFC2C2?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-B0E0E6?logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![ibutya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibutya&show_icons=true&theme=soft)
+
+## 💎 Profile Summary
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibutya&theme=soft" alt="Profile Details"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibutya&theme=soft" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=ibutya&theme=soft" alt="Streak"/>
+    </td>
+  </tr>
+</table>
