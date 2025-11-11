@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## 🌈 About Me
-Hi! I'm いぶちゃ 🎵  
+Hi! I'm ibutya!  
 - 💻 Node.js Dev  
 - 🤖 Discord.js Dev
 
