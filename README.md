@@ -59,14 +59,7 @@ A multifunctional Discord bot with various utilities and features.
 
 # 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yksr-melt&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yksr-melt&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=yksr-melt&theme=radical&hide_border=true" height="170"/>
-</p>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yksr-melt&custom_title=Yukishiro's%20GitHub%20Activity&hide_border=true&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
