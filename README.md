@@ -45,7 +45,7 @@ I build things that I think are interesting — mostly around **JavaScript/TypeS
 
 Monitor terminal sessions and processes in real time, and quickly bring a selected TTY to the foreground.
 
-[Repository](https://github.com/yskr-melt/meltty)
+[Repository](https://github.com/yksr-melt/meltty)
 
 ### 🤖 melt-bot
 
@@ -53,31 +53,31 @@ Monitor terminal sessions and processes in real time, and quickly bring a select
 
 A multifunctional Discord bot with various utilities and features.
 
-[Repository](https://github.com/yskr-melt/melt-bot)
+[Repository](https://github.com/yksr-melt/melt-bot)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/yskr-melt/beautiful-github-homepage">
-        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=yskr-melt&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="yskr-melt" /></picture>
+    <a href="https://github.com/yksr-melt/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=yksr-melt&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="yksr-melt" /></picture>
     </a>
-    <a href="https://github.com/yskr-melt?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yskr-melt&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@yskr-melt's github-readme-streak-stats" /></a>
+    <a href="https://github.com/yksr-melt?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yksr-melt&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@yksr-melt's github-readme-streak-stats" /></a>
 </p>
 
 <br>
 
 <p align="center">
-    <a href="https://github.com/yskr-melt/beautiful-github-homepage">
-        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=yskr-melt&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
+    <a href="https://github.com/yksr-melt/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=yksr-melt&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
     </a>
 </p>
 
 <br>
 
 <div align="center">
-    <a href="https://github.com/yskr-melt/github-readme-activity-graph"><img alt="yskr-melt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yskr-melt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/yksr-melt/github-readme-activity-graph"><img alt="yksr-melt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yksr-melt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 ---
