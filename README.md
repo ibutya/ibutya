@@ -74,12 +74,6 @@ A multifunctional Discord bot with various utilities and features.
     </a>
 </p>
 
-<br>
-
-<div align="center">
-    <a href="https://github.com/yksr-melt/github-readme-activity-graph"><img alt="yksr-melt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yksr-melt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
